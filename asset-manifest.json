@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ParentChild-Resume/static/css/main.74bde612.css",
+    "main.js": "/ParentChild-Resume/static/js/main.add6a677.js",
+    "index.html": "/ParentChild-Resume/index.html",
+    "main.74bde612.css.map": "/ParentChild-Resume/static/css/main.74bde612.css.map",
+    "main.add6a677.js.map": "/ParentChild-Resume/static/js/main.add6a677.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74bde612.css",
+    "static/js/main.add6a677.js"
+  ]
+}
